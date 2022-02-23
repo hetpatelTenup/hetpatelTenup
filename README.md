@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @hetpatelTenup
+- 👀 I’m interested in Webside development, server side coding and cloud configurations...
+- 🌱 I’m currently learning Microservices,AWS,Azure,Anguler...
+- 💞️ I’m looking to collaborate on Java based tach...
+
+<!---
+hetpatelTenup/hetpatelTenup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
